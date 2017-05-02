@@ -1,0 +1,28 @@
+{
+  "name": "react-native-calvium-utils",
+  "version": "0.1.0",
+  "description": "Set of basic utilities to make easier the development of React Native projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvium/react-native-calvium-utils.git"
+  },
+  "keywords": [
+    "react-native",
+    "utils",
+    "calvium"
+  ],
+  "author": "Pablo Carrillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvium/react-native-calvium-utils/issues"
+  },
+  "homepage": "https://github.com/calvium/react-native-calvium-utils#readme",
+  "peerDependencies": {
+    "react": ">=15.x",
+    "react-native": ">=0.20"
+  }
+}
