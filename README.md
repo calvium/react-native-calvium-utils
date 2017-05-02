@@ -7,5 +7,7 @@ You can find:
 * Base Error Subclass
 * Logger Helper
 
-##Next steps
+Next steps
+-----
+
 - Add example project
