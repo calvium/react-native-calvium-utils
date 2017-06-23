@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import {Image, StyleSheet} from 'react-native';
 
 /**
@@ -69,9 +70,9 @@ class ImageFit extends React.Component {
 
 ImageFit.propTypes = {
   ...Image.propTypes,
-  originalHeight: React.PropTypes.number.isRequired,
-  originalWidth: React.PropTypes.number.isRequired,
-  fitHeight: React.PropTypes.bool,
+  originalHeight: PropTypes.number.isRequired,
+  originalWidth: PropTypes.number.isRequired,
+  fitHeight: PropTypes.bool,
 };
 
 ImageFit.defaultProps = {
