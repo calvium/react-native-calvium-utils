@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/calvium/react-native-calvium-utils#readme",
   "peerDependencies": {
-    "react": ">=15.x",
+    "react": ">=16.x",
     "react-native": ">=0.44"
   }
 }
