@@ -1,6 +1,6 @@
 {
   "name": "react-native-calvium-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Set of basic utilities to make easier the development of React Native projects",
   "main": "src/index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/calvium/react-native-calvium-utils#readme",
   "peerDependencies": {
-    "react": ">=15.x",
-    "react-native": ">=0.20"
+    "react-native": ">=0.43"
   }
 }
